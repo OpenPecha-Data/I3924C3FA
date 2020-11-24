@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG6135
   title: འཛམ་གླིང་དེང་རབས་ལོ་རྒྱུས་ཀྱི་གཏམ་རྒྱུད།
-  volume: ''
+  volume:
+    c40c686911b144879f477758ad0aa949:
+      image_group_id: I1KG8437
+      title: Volume 1 of 'dzam gling deng rabs lo rgyus kyi gtam rgyud/
+      volume_number: 1
+      total_pages: 354
   author: ''
+ebook_metadata:
+  title: འཛམ་གླིང་དེང་རབས་ལོ་རྒྱུས་ཀྱི་གཏམ་རྒྱུད།
+  author: ''
+  sku: P007837
+  cover: cover.jpg
+  layers:
+  - pagination
